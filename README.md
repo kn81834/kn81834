@@ -1,7 +1,6 @@
 Hi, I’m @kn81834
 I’m interested in software engineering and working with a communicative and well-versed team.
 I’m currently learning JavaScript and SQL.
-I’m looking to collaborate on ...
 How to reach me: email, kevinwin31@gmail.com
 
 <!---
