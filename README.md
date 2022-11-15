@@ -1,6 +1,6 @@
 Hi, I’m @kn81834
-I’m interested in software engineering and working with a communicative and well-versed team.
-I’m currently learning JavaScript and SQL.
+I’m interested in software engineering looking forward to work with a communicative and well-versed team.
+I’m currently Ruby and R to learn more about statistical programming.
 How to reach me: email, kevinwin31@gmail.com
 
 <!---
